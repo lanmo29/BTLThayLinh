@@ -1,5 +1,5 @@
-# PacmanPython
-- BÀI TẬP LỚN môn học Lập Trình PYTHON 
+# BÀI TẬP LỚN môn học Lập Trình PYTHON 
+- PACMANPYTHON 
 - HỌ VÀ TÊN: NGUYỄN HÙNG LÂN
 - MSSV: K215480106030
 - GVHD:  NGUYỄN TUẤN LINH
