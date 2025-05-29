@@ -29,12 +29,6 @@ Pygame
 # Chạy chương trình
 Sử dụng IDE hoặc Text Editor hỗ trợ việc code (Visual Studio, PyCharm,..)
 
-# Demo chương trình
-[Link Youtube](https://www.youtube.com/watch?v=L4qitGm8gWA)
-
 ## Hạn chế đồ án
 - Nên thiết kế thêm màn hình `GameOver`, màn hình `Win`, lưu `HighScore` người chơi,..
 - Nên áp dụng thuật toán `A*` để cho các con Ma tìm đường đi tối ưu hơn
-
-## Báo cáo
-[Python_N20DCCN003.pdf](https://github.com/ahuynh359/PacmanPython/files/12907420/Python_N20DCCN003.pdf)
