@@ -1,5 +1,8 @@
 # PacmanPython
-Đồ án môn học Python cuối kì làm trong 2 ngày :)))))
+BÀI TẬP LỚN môn học Lập Trình PYTHON 
+HỌ VÀ TÊN: NGUYỄN HÙNG LÂN
+MSSV: K215480106030
+GVHD:  NGUYỄN TUẤN LINH
 
 ## Game Pacman là gì ?
 - Game Pacman là game trong đó người dùng sử dụng các nút `right`, `up`, `left`, `down` để điều khiển nhân vật Pacman ăn các Pacgum để ghi được 10 điểm
