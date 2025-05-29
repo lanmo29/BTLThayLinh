@@ -3,7 +3,8 @@
 - HỌ VÀ TÊN: NGUYỄN HÙNG LÂN
 - MSSV: K215480106030
 - GVHD:  NGUYỄN TUẤN LINH
-
+## DEMO SẢN PHẨM
+[DRIVE SẢN PHẨM,BÁO CÁO,PPT ](https://drive.google.com/drive/folders/1ZoYL2c9J1eqjymPUyMiF6kqs8Tz7IlQn?usp=sharing)
 ## Game Pacman là gì ?
 - Game Pacman là game trong đó người dùng sử dụng các nút `right`, `up`, `left`, `down` để điều khiển nhân vật Pacman ăn các Pacgum để ghi được 10 điểm
 và tránh các chú ma
@@ -36,5 +37,3 @@ Sử dụng IDE hoặc Text Editor hỗ trợ việc code (Visual Studio, PyChar
 - Nên thiết kế thêm màn hình `GameOver`, màn hình `Win`, lưu `HighScore` người chơi,..
 - Nên áp dụng thuật toán `A*` để cho các con Ma tìm đường đi tối ưu hơn
 
-## DEMO SẢN PHẨM
-[DRIVE SẢN PHẨM,BÁO CÁO,PPT ](https://drive.google.com/drive/folders/1ZoYL2c9J1eqjymPUyMiF6kqs8Tz7IlQn?usp=sharing)
