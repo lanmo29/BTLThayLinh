@@ -35,3 +35,6 @@ Sử dụng IDE hoặc Text Editor hỗ trợ việc code (Visual Studio, PyChar
 ## Hạn chế đồ án
 - Nên thiết kế thêm màn hình `GameOver`, màn hình `Win`, lưu `HighScore` người chơi,..
 - Nên áp dụng thuật toán `A*` để cho các con Ma tìm đường đi tối ưu hơn
+
+## DEMO SẢN PHẨM
+[DRIVE SẢN PHẨM ](https://drive.google.com/drive/folders/1076TO4OiFvDts2jnifsSOwd0_jnu-9l9?usp=drive_link)
